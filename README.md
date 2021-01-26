@@ -18,8 +18,6 @@
 
 - Course 1: Fundamentals of Reinforcement Learning
 
-  - [Learning Objectives](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/01Fundamentals_of_Reinforcement_Learning/Course1_Learning_Objectives.pdf)
-
   - [Bandits and Exploration / Exploitation](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/01Fundamentals_of_Reinforcement_Learning/01Bandits_and_Exploration_vs_Exploitation.ipynb)
   
   - [Optimal Policies with Dynamic Programming](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/01Fundamentals_of_Reinforcement_Learning/02Optimal_Policies_with_Dynamic_Programming.ipynb)
