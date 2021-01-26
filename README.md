@@ -32,11 +32,11 @@
 
 - Course 3: Prediction and Control with Function Approximation
   
-  - [TD with State Aggregation](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/01Semi-gradient_TD(0)_with_State_Aggregation.ipynb)
+  - [Semi-gradient TD(0) with State Aggregation](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/Prediction%20and%20Control%20with%20Function%20Approximation/Semi-gradient%20TD(0)%20with%20State%20Aggregation.ipynb)
   
-  - [Semi-gradient TD with a Neural Network](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/02Semi-gradient_TD_with_a_Neural_Network.ipynb)
+  - [Semi-gradient TD with a Neural Network](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/Prediction%20and%20Control%20with%20Function%20Approximation/Semi-gradient%20TD%20with%20a%20Neural%20Network.ipynb)
   
-  - [Function Approximation and Control](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/03Function_Approximation_and_Control.ipynb)
+  - [Function Approximation and Control](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/Prediction%20and%20Control%20with%20Function%20Approximation/Function%20Approximation%20and%20Control.ipynb)
   
 
 - Course 4: A Complete Reinforcement Learning System
