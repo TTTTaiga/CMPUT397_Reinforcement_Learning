@@ -41,9 +41,9 @@
 
 - Course 4: A Complete Reinforcement Learning System
   
-  - [MoonShot Technologies](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/01MoonShot_Technologies.ipynb)
+  - [MoonShot Technologies](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/MoonShot%20Technologies.ipynb)
 
-  - [Implement your agent](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/02Implement_your_agent.ipynb)
+  - [Implement your agent](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Implement%20Your%20Agent.ipynb)
   
-  - [Completing the Parameter Study](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/03Completing_the_Parameter_Study.ipynb)
+  - [Completing the Parameter Study](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Completing%20the%20parameter%20study.ipynb)
   
