@@ -23,8 +23,6 @@
   - [Optimal Policies with Dynamic Programming](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Optimal%20Policies%20with%20Dynamic%20Programming.ipynb)
 
 - Course 2: Sample-based Learning Methods
-
-  - [Learning Objectives](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/02Sample-based_Learning_Methods/Course2_Learning_Objectives.pdf)
   
   - [Policy Evaluation in Cliff Walking Environment](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/02Sample-based_Learning_Methods/01Policy_Evaluation_with_Temporal_Difference_Learning.ipynb)
   
@@ -33,8 +31,6 @@
   - [Dyna-Q and Dyna-Q+](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/02Sample-based_Learning_Methods/03Dyna-Q%20_and_Dyna-Q%2B.ipynb)
 
 - Course 3: Prediction and Control with Function Approximation
-
-  - [Learning Objectives](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/Course3_Learning_Objectives.pdf)
   
   - [TD with State Aggregation](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/01Semi-gradient_TD(0)_with_State_Aggregation.ipynb)
   
@@ -45,8 +41,6 @@
   - [Average Reward Softmax Actor-Critic](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/04Average_Reward_Softmax_Actor-Critic.ipynb)
 
 - Course 4: A Complete Reinforcement Learning System
-
-  - [Learning Objectives](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/Course4_Learning_Objectives.pdf)
   
   - [MoonShot Technologies](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/01MoonShot_Technologies.ipynb)
 
