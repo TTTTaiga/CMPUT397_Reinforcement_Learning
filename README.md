@@ -18,9 +18,9 @@
 
 - Course 1: Fundamentals of Reinforcement Learning
 
-  - [Bandits and Exploration / Exploitation](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/01Fundamentals_of_Reinforcement_Learning/01Bandits_and_Exploration_vs_Exploitation.ipynb)
+  - [Bandits and Exploration / Exploitation](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Bandits%20and%20Exploration:Exploitation.ipynb)
   
-  - [Optimal Policies with Dynamic Programming](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/01Fundamentals_of_Reinforcement_Learning/02Optimal_Policies_with_Dynamic_Programming.ipynb)
+  - [Optimal Policies with Dynamic Programming](https://github.com/TTTTaiga/CMPUT397_Reinforcement_Learning/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Optimal%20Policies%20with%20Dynamic%20Programming.ipynb)
 
 - Course 2: Sample-based Learning Methods
 
