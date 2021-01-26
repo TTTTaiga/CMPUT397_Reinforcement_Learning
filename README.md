@@ -38,7 +38,6 @@
   
   - [Function Approximation and Control](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/03Function_Approximation_and_Control.ipynb)
   
-  - [Average Reward Softmax Actor-Critic](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/04Average_Reward_Softmax_Actor-Critic.ipynb)
 
 - Course 4: A Complete Reinforcement Learning System
   
